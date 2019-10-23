@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-translate-256817",
+  "private_key_id": "d5ca7dd3870fdfdf63a28d269782967851319b44",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJ6HTbWFt4ZHT6\nTL+NY2NCPfDqifwk3rGH4s7Zq4tMj20o166m4Zi3MYFcdGtIzeBjGsfaTSgMxoUq\ndEaZ11/LfQ6Mpig1yDusYOEgLCiTrD3Kc6e8Kw/huS4EE8JCnu6zLBnzzdkxu5Ye\nceS9HGUra1igNc08TnYppJ5Gld5hnM90FrkHNpo0XDbcLr97glR/m613o3FXcSbZ\nUQ5adzJHjhKyfdRxrDQzWxA1kszlPcRqDHtHCSLOSlS+Az5jXzVdQ3MRsCFnBIUQ\nwwZJ6dYliB1l33mJQ/+LAmWJ91SVYwsLtPgXr6zYNXGOi0SwvHEwtTIKq0FYSeG+\n0XQnfQIPAgMBAAECggEAQ+eLDY4MzVOzx85yCcIoSsn8MVUQ2PGQcWwFN02rPqdq\nBfdrxLJQoyPiJs78mfKriYkjN7cFRi6p8JpEeE7n5876SrFDCrt53kKC1EglqWyf\nJ2x4OB+fasHVyQdAKRm8m8O0QruzVTeKiFiznipjmBO1LcSKbsLQmLbFiGW08cyr\nQWhIvK8bU3ssgcOavVrERMS5GSkGdkrQilVkF8bXeppenWw/bzoFYQsfSlZSkh0X\nt/+uO5rhFlGFQykOManr3ZpbbY1+9x68s1Zq3Fe0yCkBhYZuhm+I/ghJboei4VDS\nTPsU72ocNET2Ko5l/pyFb+eTmB4gCerNME0P7Z7QOQKBgQDngN8dPJpyNBFQlFeP\nUNYhFZVyJgrpbdS9OmCf491S0or4wNX94EbhhZCbHZoZFfYuhSgjZlfrW/ho5cge\nqn1T0JEGrzSOtLUE+GYchfhkOY0TsTekC2b58IceENTAuKQHxmzoWOqThiYAHGjE\nn/qLuZhsoMKW9GjqQ2wE+uo/SwKBgQDfReJvp+gynDPnDER0HP8KmATLBHMN+kBt\nC6RijmZ/fbmT4LAn7G05vcdLWFJPnbZApBm10HEkSqYQKuaccb2pA8HBI2ppffF4\nPiTtiwBPdmVLBUwQw1qAmMJkBjffzMSLu/fFGm7IYoE9NVwpMukJkgv4cNKnZJ+8\nu8wDRu4ZzQKBgAJLyuq1USrUzV8pOX0YZidJ2YOaUP1js3p0+8RaNDXAFNTGxNiR\nwuI1uutu7bpV920asP045KJW9S3FKaj0M+4C4Y1Za4IG1MzJ0elygrYrw/RwC4c6\n/bh45D4uGI4Yxre1Bht/1kPETtgtb/STSZ7dJl/dcFCi9+9q38Vk37HlAoGBAMuU\nAP8l7gYXfwuwl8n3lmSmb9hc2jtobs3+y4hBpxugG1HGkVgVrxHzBICiq4qEluUh\nu3+X61HX7srXEyaaXwB4uHXOQPynJUEqCKm/EC1kGr/ouI6gUSjoIHbrZI7fOmbe\noPBLRa/YgVa6DKpUDT/4tol09d5DVZLU+RQT3I4RAoGBAKmDdLjwcix3EpydCQNS\n2MC0Ta/wnlTdR8sMSfxDzo+iMVrWDnB/bBt0pFjjYQ+HMAaVIWKctI9w4VYGWceI\noeZz8T8Kqhtk67gR7kESUECZ4wF6met41dobR7+vRU5LquAY0k1uyhUPlYGK5H4x\noJJSvYDX7g1Nt/3L0YoG5jyW\n-----END PRIVATE KEY-----\n",
+  "client_email": "dreamteam@my-project-translate-256817.iam.gserviceaccount.com",
+  "client_id": "117100665615638964046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dreamteam%40my-project-translate-256817.iam.gserviceaccount.com"
+}
